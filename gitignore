@@ -1,0 +1,42 @@
+# ── Data files (too large / sensitive for git) ──────────────────
+DATA2.csv
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+etl_pipeline.log
+
+# ── Python ───────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ─────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ── Environment variables (keep secrets out of git) ──────────────
+.env
+.env.local
+.env.*.local
+
+# ── IDEs ─────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
+
+# ── Jupyter Notebooks checkpoints ────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS ───────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
