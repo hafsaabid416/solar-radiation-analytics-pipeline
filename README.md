@@ -1,6 +1,6 @@
 # solar-radiation-analytics-pipeline
 
-An end-to-end data engineering project that automates the ingestion, cleaning, and visualisation of **686,000+ real-world meteorological records** from the University of Bradford's weather station, transforming raw sensor output into actionable intelligence for solar energy planning and public health risk assessment.
+An end-to-end data engineering project that automates the ingestion, cleaning, and visualisation of **686,000+ real-world meteorological records** from the University of Bradford's weather station, transforming raw sensor output into actionable intelligence for solar energy planning and public health risk assessment. Built as part of MSc AI & Machine Learning — COS7046-B Big Data Visualization, University of Bradford.
 
 ---
 
