@@ -1,0 +1,20 @@
+# Bradford Weather Station Dashboard
+# COS7046-B Big Data Visualization | G15
+# ─────────────────────────────────────────
+# Install with:  pip install -r requirements.txt
+
+# Core data stack
+pandas>=2.0
+numpy>=1.24
+
+# Database / ETL
+sqlalchemy>=2.0         # ORM + database abstraction
+psycopg2-binary>=2.9    # PostgreSQL driver (for Supabase / Railway)
+
+# Visualisation & Dashboard
+plotly>=5.18
+dash>=2.14
+dash-bootstrap-components>=1.5
+
+# Utilities
+python-dotenv>=1.0      # Load DATABASE_URL from .env file
